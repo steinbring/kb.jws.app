@@ -6,4 +6,4 @@ vuepress build
 
 #rm -r public/*
 
-cp private/.vuepress/dist/* public/
+cp -r private/.vuepress/dist/* public/
