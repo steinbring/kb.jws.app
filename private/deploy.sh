@@ -4,6 +4,6 @@ yarn global add vuepress
 
 vuepress build
 
-rm public/*
+rm -r public/*
 
 cp private/.vuepress/dist/* public/
