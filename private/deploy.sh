@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-npm install -g vuepress
+yarn global add vuepress
 
 vuepress build
 
