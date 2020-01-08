@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Joe Steinbring\'s Knowledge Base',
-  description: 'This is where I put info that doesn\'t warrant a blog post.',
+  title: 'Knowledge Base',
+  description: 'This is where Joe Steinbring puts info that doesn\'t warrant a blog post.',
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }]
   ],
