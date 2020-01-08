@@ -1,3 +1,7 @@
-# Hello VuePress!
+---
+title: 'About'
+---
 
-Joe was here
+# About
+
+This is where [Joe Steinbring](https://jws.dev) dumps random knowledge.
