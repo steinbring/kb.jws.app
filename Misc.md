@@ -4,4 +4,11 @@ title: 'Miscellaneous'
 
 # Miscellaneous
 
-Info goes here
+## Milwaukee-Area User Groups
+
+## Wisconsin Tech Conferences
+
+## Self-Study Resources
+
+## Daily Reading
+
