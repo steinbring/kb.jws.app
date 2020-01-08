@@ -9,17 +9,8 @@ module.exports = {
     sidebar: [
     	'/',
     	'/Laravel',
-    	'/PHP',
-    	'/ColdFusion',
       '/VueJS',
       '/JavaScript',
-      '/Bulma',
-      '/CSS',
-    	'/MariaDB',
-      '/PostgreSQL',
-      '/Oracle',
-      '/Git',
-      '/Docker',
       '/DevTools',
       '/Travel',
       '/Misc'
