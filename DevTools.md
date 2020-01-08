@@ -9,8 +9,8 @@ title: 'Dev Tools'
 ### Laptop
 
 * [MacBook Pro with a discrete GPU](https://www.apple.com/macbook-pro-16/) ... but buy one used
-* Pinebook Pro
-* System76
+* [Pinebook Pro](https://www.pine64.org/pinebook-pro/)
+* [System76](https://system76.com/)
 
 ## Software
 
@@ -18,13 +18,13 @@ title: 'Dev Tools'
 * [Sublime Text](https://www.sublimetext.com/) for a code editor
 
 ### Database Client
-* Navicat (Expensive / not FOSS)
+* [Navicat](https://www.navicat.com/en/) (Expensive / not FOSS)
 
 
 ### Testing
-* Docker
-* Vagrant
-* Valet
+* [Docker](https://www.docker.com/) is a containerization thing
+* [Vagrant](https://www.vagrantup.com/) is a really good tool for if you want to more easily test your code in VMs
+* [Valet](https://laravel.com/docs/6.x/valet) was made for testing laravel code on a Mac.  You don't neccessarily need to use it with Laravel but it does require a Mac.
 
 ### Security
 
