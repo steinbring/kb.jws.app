@@ -12,7 +12,6 @@ module.exports = {
       '/VueJS',
       '/JavaScript',
       '/DevTools',
-      '/Travel',
       '/Misc'
     ]
   }
