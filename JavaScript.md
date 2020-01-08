@@ -12,5 +12,8 @@ Want to throw messages to the browser's console?
 console.log('Hello, VuePress!')
 ```
 
-Want to output a table of data to the 
+Want to output a table of data to the browser's console?
 
+```js
+console.table({"A": 1, "B": 2, "C": 3})
+```
