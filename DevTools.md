@@ -26,6 +26,9 @@ title: 'Dev Tools'
 * Vagrant
 * Valet
 
+### Security
+
+
 ## Services
 
 ### Testing
@@ -36,3 +39,7 @@ title: 'Dev Tools'
 * Github Pages
 * Firebase
 * Keybase
+
+### Security
+* Shodan
+
