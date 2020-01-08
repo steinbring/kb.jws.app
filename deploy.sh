@@ -2,4 +2,4 @@
 
 yarn global add vuepress
 
-vuepress build
+./vuepress build
