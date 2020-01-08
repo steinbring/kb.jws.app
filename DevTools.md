@@ -33,3 +33,6 @@ title: 'Dev Tools'
 
 ### Hosting
 * [Render.com](https://render.com)
+* Github Pages
+* Firebase
+* Keybase
