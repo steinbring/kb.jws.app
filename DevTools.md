@@ -18,7 +18,7 @@ title: 'Dev Tools'
 * [Sublime Text](https://www.sublimetext.com/) for a code editor
 
 ### Database Client
-* Navicat
+* Navicat (Expensive / not FOSS)
 
 
 ### Testing
@@ -30,3 +30,6 @@ title: 'Dev Tools'
 
 ### Testing
 * [Sauce Labs](https://saucelabs.com/) for testing on various devices types, operating systems, and browsers
+
+### Hosting
+* [Render.com](https://render.com)
