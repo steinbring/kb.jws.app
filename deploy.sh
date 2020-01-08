@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
 
-yarn global add vuepress
+yarn add vuepress
 
 vuepress build
