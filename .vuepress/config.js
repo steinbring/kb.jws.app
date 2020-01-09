@@ -9,6 +9,7 @@ module.exports = {
     sidebar: [
     	'/',
     	'/Laravel',
+      '/Coldfusion',
       '/VueJS',
       '/JavaScript',
       '/CSS',
