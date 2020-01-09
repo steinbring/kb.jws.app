@@ -19,7 +19,7 @@ title: 'Dev Tools'
 
 ### Database Client
 * [Navicat](https://www.navicat.com/en/) (Expensive / not FOSS)
-
+* [TablePlus](https://tableplus.com/) (If you can't afford Navicat, get TablePlus)
 
 ### Testing
 * [Docker](https://www.docker.com/) is a containerization thing
@@ -27,6 +27,9 @@ title: 'Dev Tools'
 * [Valet](https://laravel.com/docs/6.x/valet) was made for testing laravel code on a Mac.  You don't neccessarily need to use it with Laravel but it does require a Mac.
 
 ### Security
+
+### Other
+* [Paw](https://paw.cloud/) is a full-featured HTTP client that lets you test the APIs you build or consume.
 
 
 ## Services
@@ -39,6 +42,7 @@ title: 'Dev Tools'
 * Github Pages
 * Firebase
 * Keybase
+* DigitalOcean
 
 ### Security
 * Shodan
