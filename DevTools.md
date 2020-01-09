@@ -31,6 +31,7 @@ title: 'Dev Tools'
 ### Other
 * [Paw](https://paw.cloud/) is a full-featured HTTP client that lets you test the APIs you build or consume.
 * [Postman](https://www.getpostman.com/) is another app for sending REST, SOAP, and GraphQL requests and testing APIs.
+* [MacDown](https://macdown.uranusjr.com/) is a really good FOSS Markdown editor for macOS.
 
 ## Services
 
