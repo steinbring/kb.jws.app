@@ -11,6 +11,7 @@ module.exports = {
     	'/Laravel',
       '/VueJS',
       '/JavaScript',
+      '/CSS',
       '/DevTools',
       '/Misc'
     ]
