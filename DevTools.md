@@ -27,6 +27,7 @@ title: 'Dev Tools'
 * [Valet](https://laravel.com/docs/6.x/valet) was made for testing laravel code on a Mac.  You don't neccessarily need to use it with Laravel but it does require a Mac.
 
 ### Security
+* [Burp Suite CE](https://portswigger.net/burp/communitydownload)
 
 ### Other
 * [Paw](https://paw.cloud/) is a full-featured HTTP client that lets you test the APIs you build or consume.
