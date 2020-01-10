@@ -13,6 +13,7 @@ module.exports = {
       '/VueJS',
       '/JavaScript',
       '/CSS',
+      '/MariaDB',
       '/DevTools',
       '/Misc'
     ]
