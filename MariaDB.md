@@ -8,18 +8,21 @@ title: 'MariaDB'
 
 ### Select
 
-```sql
+This shold get every value for every column and every row in the table 'tbl_name'.
+```SQL
 select *
 from tbl_name
 ```
 
-```sql
+This should get the value of the column 'field1' for every row in 'tbl_name' where the column 'id' equals 1.  If 'id' is your primary key, zero or one record should be returned.
+```SQL
 select field1
 from tbl_name
 where id = 1
 ```
 
-```sql
+This should get the value of the column 'field1' for every row in 'tbl_name' and order the results by the value of 'field1'.
+```SQL
 select field1
 from tbl_name
 order by field1
