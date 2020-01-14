@@ -19,8 +19,3 @@ The fastest and easiest way is to just include the following code within your HT
 <!-- production version from UNPKG -->
 <script src="https://unpkg.com/vue/dist/vue.min.js"></script>
 ```
-
-## Hello World
-
-## Axios
-
