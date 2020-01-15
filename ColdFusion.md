@@ -14,3 +14,17 @@ Here's how to do it.
     writedump(q)
 </cfscript>
 ```
+
+## Set the value of a variable
+
+```cfml
+<cfset variable_name = "value">
+```
+
+... or ...
+
+```cfml
+<cfscript>
+    variable_name = "value";
+</cfscript>
+```
