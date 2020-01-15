@@ -8,7 +8,7 @@ title: 'MariaDB'
 
 ### Select
 
-This shold get every value for every column and every row in the table 'tbl_name'.
+This should get every value for every column and every row in the table 'tbl_name'.
 ```SQL
 select *
 from tbl_name
@@ -30,8 +30,8 @@ order by field1
 
 ### Insert
 
-This shold get every value for every column and every row in the table 'tbl_name'.
+This should create a new value row in 'tbl_name'.
 ```SQL
-INSERT INTO tbl_name (column1, column2, column3, ...)
-VALUES (value1, value2, value3, ...);
+INSERT INTO tbl_name (column1, column2, column3)
+VALUES (value1, value2, value3);
 ```
