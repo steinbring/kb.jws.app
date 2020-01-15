@@ -17,6 +17,8 @@ Here's how to do it.
 
 ## Set the value of a variable
 
+Since there is a script syntax and a tag syntax, there are two ways.
+
 ```cfml
 <cfset variable_name = "value">
 ```
