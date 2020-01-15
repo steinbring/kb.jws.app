@@ -27,3 +27,11 @@ select field1
 from tbl_name
 order by field1
 ```
+
+### Insert
+
+This shold get every value for every column and every row in the table 'tbl_name'.
+```SQL
+INSERT INTO tbl_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+```
