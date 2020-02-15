@@ -12,4 +12,4 @@ The content of this site is stored in the markdown files in this root of this pr
 
 # About Joe
 
-I am a web application engineer in Milwaukee.
+I am a web application engineer in Milwaukee, Wisconsin.
